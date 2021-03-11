@@ -1,1 +1,13 @@
-# taking_input
+# Biggest
+## Small
+### Smallest 
+
+Normal
+
+**BOLD**
+
+*ITALIC*
+
+
+* Bullets
+* Bullets
